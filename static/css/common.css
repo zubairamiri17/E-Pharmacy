@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  position: relative;
+}
+
+#wrap {
+  max-width: 1200px;
+  padding: 0;
+  background: #fff;
+  margin: 150px auto;
+}
+
+.tit {
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  color: #000;
+  letter-spacing: 3px;
+}
+
+.list {
+  margin: 20px 0 0;
+  list-style: none;
+}
+
+.list > li + li {
+  margin: 30px 0 0;
+}
+
+.list > li .sec-tit {
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.list > li .cont-box {
+  margin: 10px 0 0;
+}
+
+.list > li .cont-box .box {
+  width: 100%;
+  height: 200px;
+  background: #e1e1e1;
+  font-weight: 700;
+  font-size: 50px;
+  text-align: center;
+  line-height: 200px;
+  color: #fff;
+}
+
+.list > li .cont-box .code-area {
+  margin: 20px 0 0;
+  border-radius: 5px;
+  padding: 20px;
+  background: #1e1e1e;
+}
+
+.list > li .cont-box .code-area pre {
+  color: #fff;
+}
+/*# sourceMappingURL=common.css.map */

@@ -1,0 +1,89 @@
+.header-main{
+    background-color:#00569b;
+    color:white;
+    padding-top: 10px;
+}
+.list-group-item{
+   background-color: #F2F2F2;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   color:white;
+       
+   
+}
+
+list_section {
+
+   padding-right: 0px;
+   
+
+
+}
+#slider1,
+.img-fluid {
+    /*margin-top:40px;*/
+
+    height: 249px;
+    object-fit: cover;
+    width: 100%;
+}
+
+/* corsour */
+.card-body,
+p {
+    font-size: 14px;
+}
+
+.top-brand {
+    background-color: #EDF7F6;
+    height: 122px;
+    border: none;
+  
+}
+
+.brand-logo {
+    height: 122px;
+    width: 100%;
+    object-fit: cover;
+    
+
+}
+
+/* .swiper {
+    width: 100%;
+  }
+.swiper-wrapper{
+    width:6.6%;
+
+} */
+
+
+#footer,
+h4 {
+    color: #023d53;
+
+
+}
+
+#footer,
+a {
+    text-decoration: none;
+    color: black;
+    text-align: left;
+    font-size: 14px;
+
+}
+
+#footer {
+    background-color: lightgray;
+    padding-top: 60px
+}
+
+.footer-top {
+    margin-bottom: 100px;
+}
+
+.copyright {
+    background-color: #00569B;
+
+}
